@@ -1,2 +1,2 @@
 # platzi-store
-Curso de Pruebas unitarias con Jest
+Curso de Pruebas CI con Travis en Platzi 
